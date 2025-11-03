@@ -140,16 +140,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Credits
 
-- **Game Design & Programming** - [Your Name]
+- **Game Design & Programming** - Rohit Kumar
 - **Inspired by** - Temple Run, Subway Surfers
 - **Unity Asset Store** - [List any assets used]
 
 ## 📧 Contact
 
-- **Developer** - [Your Name]
-- **Email** - your.email@example.com
-- **Project Link** - [https://github.com/yourusername/face-the-arrows](https://github.com/yourusername/face-the-arrows)
-
+- **Developer** - Rohit Kumar
+- **Email** - rohit7ngod@gmail.com
+- **Project Link** - https://github.com/rohit7nkuamr/face-the-arrows
 ## 🎮 Screenshots
 
 [Add screenshots here once the game is ready]
