@@ -197,7 +197,7 @@ public class PlayerController : MonoBehaviour
             animator.SetTrigger("Death");
             
         // Stop movement
-        rb.velocity = Vector3.zero;
+        rb.linearVelocity = Vector3.zero;
         rb.isKinematic = true;
     }
     
